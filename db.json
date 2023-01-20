@@ -1,0 +1,94 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "name": "Biswanath Sahoo",
+      "email": "biswa@gmail.com",
+      "mobile": "9999999999",
+      "password": "44444",
+      "repassword": "44444",
+      "id": 1
+    },
+    {
+      "name": "Tofan Kumar Parida",
+      "email": "tofan@gmail.com",
+      "mobile": "8888888888",
+      "password": "44444",
+      "repassword": "44444",
+      "id": 2
+    },
+    {
+      "name": "niyatee sahoo",
+      "email": "niyu@gmail.com",
+      "mobile": "9999999999",
+      "password": "44444",
+      "repassword": "44444",
+      "id": 3
+    },
+    {
+      "name": "demo one",
+      "email": "demo1@gmail.com",
+      "mobile": "9999999999",
+      "password": "44444",
+      "repassword": "44444",
+      "admin": true,
+      "id": 4
+    },
+    {
+      "name": "demo two",
+      "email": "demo2@gmail.com",
+      "mobile": "9999999999",
+      "password": "44444",
+      "repassword": "44444",
+      "admin": false,
+      "id": 5
+    },
+    {
+      "name": "demo three",
+      "email": "demo3@gmail.com",
+      "mobile": "9999999999",
+      "password": "44444",
+      "repassword": "44444",
+      "admin": false,
+      "id": 6
+    },
+    {
+      "name": "niyatee sahoo",
+      "email": "niyu1@gmail.com",
+      "mobile": "9999999999",
+      "password": "44444",
+      "repassword": "44444",
+      "admin": false,
+      "id": 7
+    }
+  ],
+  "userlist": [
+    {
+      "firstCtrl": "niyatee",
+      "secondCtrl": "gudisahoo014@gmail.com",
+      "thirdCtrl": 87483,
+      "fourthCtrl": "2023-01-09",
+      "fiveCtrl": "FeMale",
+      "sixCtrl": 84678324,
+      "id": 1
+    },
+    {
+      "firstCtrl": "Biswanath Sahoo",
+      "secondCtrl": "biswa@gmail.com",
+      "thirdCtrl": 999999999,
+      "fourthCtrl": "2023-01-04",
+      "fiveCtrl": "Male",
+      "sixCtrl": 111111111111,
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
